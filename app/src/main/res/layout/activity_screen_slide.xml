@@ -71,7 +71,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="match_parent"
                 android:gravity="center"
-                android:text="Kiểm tra"
+                android:text="Check"
                 android:textColor="#ffffff"
                 android:textSize="20sp"
                 android:textStyle="bold" />
