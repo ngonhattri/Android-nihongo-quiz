@@ -20,11 +20,11 @@
             android:id="@+id/txtName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="De So 1"
+            android:padding="20dp"
+            android:text="De 1"
             android:textAlignment="textStart"
             android:textColor="@color/colorPrimaryDark"
             android:textSize="20sp"
-            android:padding="20dp"
             android:textStyle="bold" />
     </LinearLayout>
 
