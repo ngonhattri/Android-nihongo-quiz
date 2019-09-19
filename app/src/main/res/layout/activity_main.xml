@@ -213,13 +213,14 @@
                     android:layout_height="1dp"
                     android:background="@color/lightgray"
                     android:layout_margin="10dp"/>
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="Đề Thi N1"
                     android:padding="5dp"
-                    android:textColor="@android:color/darker_gray"/>
+                    android:text="Đề Thi N"
+                    android:textColor="@android:color/darker_gray" />
             </LinearLayout>
         </android.support.v7.widget.CardView>
         <android.support.v7.widget.CardView
